@@ -1,0 +1,1 @@
+This project is to analyze the data of a bikeshare company to solve their business problems through data-driven decision making. Detailed presentation about the analysis presented using MS powerpoint. Kindly click this [link](https://1drv.ms/p/c/8e843b62391a288c/EeE6iEYPvItPm0cMVgYuQwUBWLSc7QKCcU_ARsdCRNC4Aw?e=MU7Cec) to view the presentation.
